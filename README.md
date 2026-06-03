@@ -205,6 +205,10 @@ Access permissions were reviewed to confirm that the user received read-only acc
 
 ## Conclusion
 
-Successfully deployed and configured Azure Storage services, uploaded and managed files, implemented secure access using SAS tokens, and configured lifecycle management policies to optimize storage costs.
+Successfully deployed and configured Azure Storage services, created and managed Blob Containers, uploaded and organized data, implemented secure access using Shared Access Signatures (SAS), and configured Lifecycle Management policies to optimize storage costs.
 
-This lab demonstrates practical Azure Administrator (AZ-104) skills related to cloud storage management, security, and governance.
+In addition, Microsoft Entra ID and Azure Role-Based Access Control (RBAC) were used to demonstrate secure identity and access management by assigning least-privilege permissions to a test user. This reflects real-world enterprise practices for protecting cloud resources and controlling access to sensitive data.
+
+This lab demonstrates practical Azure Administrator (AZ-104) skills related to cloud storage management, security, governance, identity management, and cost optimization. Through this project, I gained hands-on experience with Azure Storage Accounts, Blob Storage, access control, lifecycle policies, and administrative tasks commonly performed in production Azure environments.
+
+Overall, this lab showcases the ability to deploy, secure, manage, and optimize Azure storage resources while following industry best practices for security and operational efficiency.
