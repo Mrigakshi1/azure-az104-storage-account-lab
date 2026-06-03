@@ -7,13 +7,13 @@ This lab demonstrates how to create and manage Azure Storage resources in Micros
 ---
 
 ## Architecture
-
+ 
 Resource Group
-    ↓
+     →
 Storage Account
-    ↓
+     →
 Blob Container
-    ↓
+     →
 Uploaded Files
 
 ---
