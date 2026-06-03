@@ -138,7 +138,7 @@ A test user account was created in Microsoft Entra ID to simulate role-based acc
 
 | User | Purpose |
 |--------|---------|
-| Gwen) storage-user | Read-only access to Blob Storage |
+| (Gwen) storage-user | Read-only access to Blob Storage |
 
 ### Screenshot
 
