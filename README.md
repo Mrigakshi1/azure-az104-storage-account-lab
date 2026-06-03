@@ -24,7 +24,7 @@ A Resource Group was created to organize all resources used in this lab.
 
 ### Screenshot
 
-![Resource Group](screenshots/01-resource-group.png)
+![Resource Group](screenshots/01-resource-group-storageaccount.png)
 
 ### Key Learning
 
