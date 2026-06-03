@@ -130,20 +130,6 @@ A lifecycle management policy was created to automatically move older blobs to a
 
 ---
 
-## Skills Demonstrated
-
-- Azure Storage Accounts
-- Azure Blob Storage
-- Shared Access Signatures (SAS)
-- Lifecycle Management
-- Microsoft Entra ID
-- Azure Role-Based Access Control (RBAC)
-- Identity and Access Management (IAM)
-- Storage Security
-- Azure Administration
-
----
-
 ## Step 8: Create a Test User in Microsoft Entra ID
 
 A test user account was created in Microsoft Entra ID to simulate role-based access management scenarios.
@@ -202,6 +188,22 @@ Access permissions were reviewed to confirm that the user received read-only acc
 - Permission validation
 - Secure access control
 - Enterprise security practices
+
+---
+
+## Skills Demonstrated
+
+- Azure Storage Accounts
+- Azure Blob Storage
+- Shared Access Signatures (SAS)
+- Lifecycle Management
+- Microsoft Entra ID
+- Azure Role-Based Access Control (RBAC)
+- Identity and Access Management (IAM)
+- Storage Security
+- Azure Administration
+
+---
 
 ## Conclusion
 
