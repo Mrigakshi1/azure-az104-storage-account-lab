@@ -132,15 +132,76 @@ A lifecycle management policy was created to automatically move older blobs to a
 
 ## Skills Demonstrated
 
-- Azure Resource Groups
 - Azure Storage Accounts
 - Azure Blob Storage
 - Shared Access Signatures (SAS)
 - Lifecycle Management
-- Cloud Storage Administration
+- Microsoft Entra ID
+- Azure Role-Based Access Control (RBAC)
+- Identity and Access Management (IAM)
+- Storage Security
 - Azure Administration
 
 ---
+
+## Step 8: Create a Test User in Microsoft Entra ID
+
+A test user account was created in Microsoft Entra ID to simulate role-based access management scenarios.
+
+### User Details
+
+| User | Purpose |
+|--------|---------|
+| storage.user | Read-only access to Blob Storage |
+
+### Screenshot
+
+![Entra User](screenshots/08-entra-user.png)
+
+### Key Learning
+
+- Microsoft Entra ID user management
+- Identity administration
+- User provisioning
+
+---
+
+## Step 9: Assign RBAC Role
+
+The built-in Azure role **Storage Blob Data Reader** was assigned to the test user using Azure Role-Based Access Control (RBAC).
+
+### Screenshot
+
+![RBAC Assignment](screenshots/09-rbac-role-assignment.png)
+
+### Key Learning
+
+- Azure RBAC
+- Principle of Least Privilege
+- Access management
+
+---
+
+## Step 10: Verify Permissions
+
+Access permissions were reviewed to confirm that the user received read-only access to Blob Storage resources.
+
+### Access Matrix
+
+| User | Access Level |
+|--------|-------------|
+| Administrator | Full Access |
+| storage.user | Read Only |
+
+### Screenshot
+
+![Permission Verification](screenshots/10-role-assignment-success.png)
+
+### Key Learning
+
+- Permission validation
+- Secure access control
+- Enterprise security practices
 
 ## Conclusion
 
