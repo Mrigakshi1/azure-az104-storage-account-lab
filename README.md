@@ -40,7 +40,7 @@ A Storage Account was created using Standard Performance and Locally Redundant S
 
 ### Screenshot
 
-![Storage Account](screenshots/03-storage-account-overview.png)
+![Storage Account](screenshots/02-storage-account.png)
 
 ### Key Learning
 
