@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This lab demonstrates how to create and manage Azure Storage resources in Microsoft Azure. The project covers Storage Account creation, Blob Containers, file uploads, Shared Access Signatures (SAS), and Lifecycle Management.
+This AZ-104 hands-on lab demonstrates the deployment, configuration, and management of Azure Storage services, including Storage Accounts, Blob Containers, Shared Access Signatures (SAS), Lifecycle Management, and Role-Based Access Control (RBAC). The project showcases practical Azure Administrator skills in cloud storage security, access management, governance, and cost optimization.
 
 ---
 
